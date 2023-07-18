@@ -1,16 +1,27 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://thumbs.gfycat.com/OrderlyImpureImperialeagle.webp" width="100"/>
+</div>
 
-<!--
-**eth3ral0/eth3ral0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👾.Hello
+I'm Yass *(she/her)*, a high school student from France, currently learning **cybersecurity** and **3D modeling** in my free time!
 
-Here are some ideas to get you started:
+## 📟.Languages
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,php,java,javascript,html,c,cpp" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚙️.Others
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,azure,aws,gcp" />
+  </a>
+</p>
+
+## 🎭 .Softwares
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ps,ae,blender,sketchup,autocad" />
+  </a>
+</p>
