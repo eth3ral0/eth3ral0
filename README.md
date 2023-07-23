@@ -15,7 +15,7 @@ I'm Yass *(she/her)*, a high school student from France, currently learning **cy
 ## ⚙️.Others
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,azure,aws,gcp" />
+    <img src="https://skillicons.dev/icons?i=linux,azure,aws,gcp,metasploit" />
   </a>
 </p>
 
