@@ -16,4 +16,6 @@ I love CTFs and music !
 
 ## More About me
 
+![tryhackme stats](https://raw.githubusercontent.com/eth3ral/eth3ral/master/assets/thm_propic.png)
+
 
