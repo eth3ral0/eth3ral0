@@ -1,5 +1,7 @@
 ## Hi !👋 I'm Yass
 
+<img src="https://github.com/eth3ral0/eth3ral0/blob/main/assets/GITHUB-PROFILE-PREVIEW.jpg" />
+
 ## 🌟 About Me
 
 📕 **Currently a CS Student at IUT Paris Cité.**
