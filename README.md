@@ -6,7 +6,6 @@
 
 - 📕 **Currently a CS Student at IUT Paris Cité.**
 - 🔍 **Aspiring to be Digital Forensic Specialist**
-- 🔐 **Beginner CTF player in Ikalaga team**
 - 🖇️ **Visit my [Portfolio](https://eth3ral0lab.vercel.app/en) here**
 
 
